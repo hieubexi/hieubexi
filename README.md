@@ -1,4 +1,11 @@
 ### Hi there 👋
+<pre>
+I'm Hieu
+Computer Engineering College Student  
+Ho Chi Minh City University of Technology
+</pre>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=hieubexi&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15&title=MultiLanguage,Commits,Repositories,Experience,Stars)](https://github.com/hieubexi/github-profile-trophy)
 
 <!--
 **hieubexi/hieubexi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
