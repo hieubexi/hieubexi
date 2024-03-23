@@ -28,9 +28,9 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=Arduino&logoColor=white) ![Mosquitto](https://img.shields.io/badge/mosquitto-%233C5280.svg?style=flat&logo=eclipsemosquitto&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=hieubexi&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=hieubexi&theme=great-gatsby&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hieubexi&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=hieubexi&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false)<br>
+![](https://github-readme-streak-stats.herokuapp.com/?user=hieubexi&theme=great-gatsby&hide_border=true)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=hieubexi&theme=great-gatsby&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br>
 
 
 
